@@ -43,9 +43,7 @@
                     </td>
                 </tr>
             @empty
-                <tr>
-                    <td colspan="3" class="text-center">Tidak ada data tag</td>
-                </tr>
+                <p>Data Kategori Tidak Ada</p>
             @endforelse
         </tbody>
 
